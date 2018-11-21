@@ -1,0 +1,6 @@
+Domains
+1. Deployment -> 22%
+2. Security -> 26%
+3. Development with AWS services -> 30%
+4. Refactoring -> 10%
+5. Monitoring and Troubleshooting -> 12%
