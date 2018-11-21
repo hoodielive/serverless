@@ -4,3 +4,25 @@ Domains
 3. Development with AWS services -> 30%
 4. Refactoring -> 10%
 5. Monitoring and Troubleshooting -> 12%
+
+Deployment:
+  - Elastic BeanStalk
+  - CICD
+  - Serverless
+
+Security:
+  - Understand each service
+
+Development with AWS:
+  - Serverless
+  - API
+  - SDK
+  - CLI
+
+Refactoring:
+  - Best path to migrations
+
+Monitoring and TS:
+  - Cloudwatch
+  - Cloudtrail
+  - X-ray 
